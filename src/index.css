@@ -1,0 +1,12 @@
+
+
+
+
+button{
+  background-color: transparent;
+  border: none;
+  background-color: bisque;
+  padding: 1rem 2rem;
+  font-weight: 700;
+  border-radius: 0.125rem;
+}
